@@ -1,49 +1,54 @@
- Tempo empenhado fazendo a tarefa validar login, no dia 7/6/2021, ás 19:48: 2:06:04. Pagamento total: R$ 11.09 
-Tempo empenhado fazendo a tarefa login validacao, no dia 8/6/2021, ás 18:50: 0:25:02. Pagamento total: R$ 2.2 
-+ 2 horas
-Tempo empenhado fazendo a tarefa Classe Admin + ajax admin, no dia 9/6/2021, ás 15:59: 1:01:05. Pagamento total: R$ 5.38 
-Tempo empenhado fazendo a tarefa topo parte 2, no dia 16/6/2021, ás 17:40: 0:19:08. Pagamento total: R$ 1.68 
-Tempo empenhado fazendo a tarefa lista de imagens, no dia 16/6/2021, ás 18:0: 0:49:57. Pagamento total: R$ 4.4 
-Tempo empenhado fazendo a tarefa lista de imagens, no dia 16/6/2021, ás 21:32: 0:32:26. Pagamento total: R$ 2.85 
-Tempo empenhado fazendo a tarefa lista de imagens, no dia 17/6/2021, ás 22:14: 0:55:48. Pagamento total: R$ 4.91 
-Tempo empenhado fazendo a tarefa classe imagem, no dia 21/6/2021, ás 15:59: 0:40:25. Pagamento total: R$ 3.56 
-Tempo empenhado fazendo a tarefa js de imagem, no dia 21/6/2021, ás 17:0: 0:21:27. Pagamento total: R$ 1.89 
-Tempo empenhado fazendo a tarefa classe Imagem parte 2, no dia 21/6/2021, ás 17:49: 0:29:47. Pagamento total: R$ 2.62 
-Tempo empenhado fazendo a tarefa parte 2 editar imagem, no dia 23/6/2021, ás 16:8: 2:04:56. Pagamento total: R$ 10.99 
-Tempo empenhado fazendo a tarefa ajax parte 2 modal, no dia 29/6/2021, ás 13:47: 0:46:30. Pagamento total: R$ 4.09 
-Tempo empenhado fazendo a tarefa read imagens, no dia 29/6/2021, ás 14:33: 0:27:23. Pagamento total: R$ 2.41 
-Tempo empenhado fazendo a tarefa Edit imagens, no dia 30/6/2021, ás 15:35: 1:51:50. Pagamento total: R$ 9.84 
-Tempo empenhado fazendo a tarefa editar imagem, no dia 13/7/2021, ás 14:16: 0:44:00. Pagamento total: R$ 3.87 
-Tempo empenhado fazendo a tarefa deletar imagem, no dia 13/7/2021, ás 18:14: 0:45:27. Pagamento total: R$ 4.0 
-Tempo empenhado fazendo a tarefa colocar icones de editar e excluir, no dia 14/7/2021, ás 16:12: 0:24:51. Pagamento total: R$ 2.19 
-Tempo empenhado fazendo a tarefa deletar imagem, no dia 14/7/2021, ás 17:2: 0:44:44. Pagamento total: R$ 3.94 
-Tempo empenhado fazendo a tarefa Fazer o FormData, no dia 20/7/2021, ás 15:56: 1:23:11. Pagamento total: R$ 7.32 
-Tempo empenhado fazendo a tarefa exibir Img, no dia 21/7/2021, ás 15:25: 1:28:56. Pagamento total: R$ 7.83 
-Tempo empenhado fazendo a tarefa ver videos do sistema, no dia 18/8/2021, ás 9:20: 0:17:02. Pagamento total: R$ 1.5 
-Tempo empenhado fazendo a tarefa cadastrar alunos, no dia 18/8/2021, ás 9:42: 0:46:47. Pagamento total: R$ 4.12 
-Tempo empenhado fazendo a tarefa site do ballet, no dia 18/8/2021, ás 10:29: 0:18:57. Pagamento total: R$ 1.67 
-Tempo empenhado fazendo a tarefa continuar a fazer o site, no dia 18/8/2021, ás 10:50: 0:27:12. Pagamento total: R$ 4.08 
-Tempo empenhado fazendo a tarefa cadastrar alunos, no dia 24/8/2021, ás 19:22: 1:40:45. Pagamento total: R$ 15.11 
-Tempo empenhado fazendo a tarefa cadadstrar alunos, no dia 25/8/2021, ás 9:15: 2:26:46. Pagamento total: R$ 22.02 
-Tempo empenhado fazendo a tarefa site do ballet, no dia 26/8/2021, ás 9:21: 2:00:25. Pagamento total: R$ 18.06 
-Tempo empenhado fazendo a tarefa fazer o site, no dia 26/8/2021, ás 22:6: 1:22:41. Pagamento total: R$ 12.4 
-Tempo empenhado fazendo a tarefa botao fechar, no dia 8/11/2021, ás 8:59: 2:25:43. Pagamento total: R$ 21.86 
-Tempo empenhado fazendo a tarefa ajax de pesquisa, no dia 9/11/2021, ás 10:8: 0:00:54. Pagamento total: R$ 0.14 
-Tempo empenhado fazendo a tarefa corrigir esquema de login, no dia 9/11/2021, ás 10:53: 0:17:38. Pagamento total: R$ 2.65 
-Tempo empenhado fazendo a tarefa Paginacao lista, no dia 9/11/2021, ás 11:11: 0:27:59. Pagamento total: R$ 4.2 
-Tempo empenhado fazendo a tarefa paginacao parte 1, no dia 10/11/2021, ás 11:35: 0:52:33. Pagamento total: R$ 7.88 
-Tempo empenhado fazendo a tarefa paginacao parte 2, no dia 10/11/2021, ás 21:34: 0:50:25. Pagamento total: R$ 7.56 
-Tempo empenhado fazendo a tarefa CRUD Descricao, no dia 23/11/2021, ás 21:41: 1:47:03. Pagamento total: R$ 16.06 
-Tempo empenhado fazendo a tarefa CRUD descricao, no dia 25/11/2021, ás 20:45: 0:46:27. Pagamento total: R$ 6.97 
-Tempo empenhado fazendo a tarefa Corrigir paginacao listagem, no dia 25/11/2021, ás 21:32: 0:09:16. Pagamento total: R$ 1.39 
-Tempo empenhado fazendo a tarefa CRUD descricao, no dia 25/11/2021, ás 21:50: 0:28:57. Pagamento total: R$ 4.34 
-Tempo empenhado fazendo a tarefa Excluir, no dia 25/11/2021, ás 22:19: 0:11:14. Pagamento total: R$ 1.68 
-Tempo empenhado fazendo a tarefa Excluir, no dia 25/11/2021, ás 22:34: 0:03:41. Pagamento total: R$ 0.55 
-Tempo empenhado fazendo a tarefa CRUD descricao, no dia 30/11/2021, ás 9:41: 1:17:39. Pagamento total: R$ 11.65 
-Tempo empenhado fazendo a tarefa Descricao Detalhes, no dia 2/12/2021, ás 21:0: 0:47:39. Pagamento total: R$ 7.15 
-Tempo empenhado fazendo a tarefa Dropdown, no dia 2/12/2021, ás 21:47: 0:45:58. Pagamento total: R$ 6.9 
-Tempo empenhado fazendo a tarefa listagem de pontos, no dia 8/12/2021, ás 21:44: 1:09:24. Pagamento total: R$ 10.41 
-Tempo empenhado fazendo a tarefa ajustes, no dia 20/12/2021, ás 21:1: 1:23:52. Pagamento total: R$ 12.58 
-Tempo empenhado fazendo a tarefa campos extras pontos, no dia 21/12/2021, ás 18:19: 0:23:41. Pagamento total: R$ 3.55 
-Tempo empenhado fazendo a tarefa deletar ponto, no dia 21/12/2021, ás 18:43: 0:29:33. Pagamento total: R$ 4.43 
-Tempo empenhado fazendo a tarefa ajustes, no dia 28/12/2021, ás 13:9: 0:21:29. Pagamento total: R$ 3.22 
+Tempo empenhado fazendo a tarefa validar login, no dia 7/6/2021, ás 19:48, 2:06:04, Pagamento total: R$ 11.09 
+Tempo empenhado fazendo a tarefa login validacao, no dia 8/6/2021, ás 18:50, 2:25:02, Pagamento total: R$ 2.2 
+Tempo empenhado fazendo a tarefa Classe Admin + ajax admin, no dia 9/6/2021, ás 15:59, 1:01:05, Pagamento total: R$ 5.38 
+Tempo empenhado fazendo a tarefa topo parte 2, no dia 16/6/2021, ás 17:40, 0:19:08, Pagamento total: R$ 1.68 
+Tempo empenhado fazendo a tarefa lista de imagens, no dia 16/6/2021, ás 18:00, 0:49:57, Pagamento total: R$ 4.4 
+Tempo empenhado fazendo a tarefa lista de imagens, no dia 16/6/2021, ás 21:32, 0:32:26, Pagamento total: R$ 2.85 
+Tempo empenhado fazendo a tarefa lista de imagens, no dia 17/6/2021, ás 22:14, 0:55:48, Pagamento total: R$ 4.91 
+Tempo empenhado fazendo a tarefa classe imagem, no dia 21/6/2021, ás 15:59, 0:40:25, Pagamento total: R$ 3.56 
+Tempo empenhado fazendo a tarefa js de imagem, no dia 21/6/2021, ás 17:00, 0:21:27, Pagamento total: R$ 1.89 
+Tempo empenhado fazendo a tarefa classe Imagem parte 2, no dia 21/6/2021, ás 17:49, 0:29:47, Pagamento total: R$ 2.62 
+Tempo empenhado fazendo a tarefa parte 2 editar imagem, no dia 23/6/2021, ás 16:8, 2:04:56, Pagamento total: R$ 10.99 
+Tempo empenhado fazendo a tarefa ajax parte 2 modal, no dia 29/6/2021, ás 13:47, 0:46:30, Pagamento total: R$ 4.09 
+Tempo empenhado fazendo a tarefa read imagens, no dia 29/6/2021, ás 14:33, 0:27:23, Pagamento total: R$ 2.41 
+Tempo empenhado fazendo a tarefa Edit imagens, no dia 30/6/2021, ás 15:35, 1:51:50, Pagamento total: R$ 9.84 
+Tempo empenhado fazendo a tarefa editar imagem, no dia 13/7/2021, ás 14:16, 0:44:00, Pagamento total: R$ 3.87 
+Tempo empenhado fazendo a tarefa deletar imagem, no dia 13/7/2021, ás 18:14, 0:45:27, Pagamento total: R$ 4.0 
+Tempo empenhado fazendo a tarefa colocar icones de editar e excluir, no dia 14/7/2021, ás 16:12, 0:24:51, Pagamento total: R$ 2.19 
+Tempo empenhado fazendo a tarefa deletar imagem, no dia 14/7/2021, ás 17:20, 0:44:44, Pagamento total: R$ 3.94 
+Tempo empenhado fazendo a tarefa Fazer o FormData, no dia 20/7/2021, ás 15:56, 1:23:11, Pagamento total: R$ 7.32 
+Tempo empenhado fazendo a tarefa exibir Img, no dia 21/7/2021, ás 15:25, 1:28:56, Pagamento total: R$ 7.83 
+Tempo empenhado fazendo a tarefa ver videos do sistema, no dia 18/8/2021, ás 9:20, 0:17:02, Pagamento total: R$ 1.5 
+Tempo empenhado fazendo a tarefa cadastrar alunos, no dia 18/8/2021, ás 9:42, 0:46:47, Pagamento total: R$ 4.12 
+Tempo empenhado fazendo a tarefa site do ballet, no dia 18/8/2021, ás 10:29, 0:18:57, Pagamento total: R$ 1.67 
+Tempo empenhado fazendo a tarefa continuar a fazer o site, no dia 18/8/2021, ás 10:50, 0:27:12, Pagamento total: R$ 4.08 
+Tempo empenhado fazendo a tarefa cadastrar alunos, no dia 24/8/2021, ás 19:22, 1:40:45, Pagamento total: R$ 15.11 
+Tempo empenhado fazendo a tarefa cadadstrar alunos, no dia 25/8/2021, ás 9:15, 2:26:46, Pagamento total: R$ 22.02 
+Tempo empenhado fazendo a tarefa site do ballet, no dia 26/8/2021, ás 9:21, 2:00:25, Pagamento total: R$ 18.06 
+Tempo empenhado fazendo a tarefa fazer o site, no dia 26/8/2021, ás 22:06, 1:22:41, Pagamento total: R$ 12.4 
+Tempo empenhado fazendo a tarefa botao fechar, no dia 8/11/2021, ás 8:59, 2:25:43, Pagamento total: R$ 21.86 
+Tempo empenhado fazendo a tarefa ajax de pesquisa, no dia 9/11/2021, ás 10:08, 0:00:54, Pagamento total: R$ 0.14 
+Tempo empenhado fazendo a tarefa corrigir esquema de login, no dia 9/11/2021, ás 10:53, 0:17:38, Pagamento total: R$ 2.65 
+Tempo empenhado fazendo a tarefa Paginacao lista, no dia 9/11/2021, ás 11:11, 0:27:59, Pagamento total: R$ 4.2 
+Tempo empenhado fazendo a tarefa paginacao parte 1, no dia 10/11/2021, ás 11:35, 0:52:33, Pagamento total: R$ 7.88 
+Tempo empenhado fazendo a tarefa paginacao parte 2, no dia 10/11/2021, ás 21:34, 0:50:25, Pagamento total: R$ 7.56 
+Tempo empenhado fazendo a tarefa CRUD Descricao, no dia 23/11/2021, ás 21:41, 1:47:03, Pagamento total: R$ 16.06 
+Tempo empenhado fazendo a tarefa CRUD descricao, no dia 25/11/2021, ás 20:45, 0:46:27, Pagamento total: R$ 6.97 
+Tempo empenhado fazendo a tarefa Corrigir paginacao listagem, no dia 25/11/2021, ás 21:32, 0:09:16, Pagamento total: R$ 1.39 
+Tempo empenhado fazendo a tarefa CRUD descricao, no dia 25/11/2021, ás 21:50, 0:28:57, Pagamento total: R$ 4.34 
+Tempo empenhado fazendo a tarefa Excluir, no dia 25/11/2021, ás 22:19, 0:11:14, Pagamento total: R$ 1.68 
+Tempo empenhado fazendo a tarefa Excluir, no dia 25/11/2021, ás 22:34, 0:03:41, Pagamento total: R$ 0.55 
+Tempo empenhado fazendo a tarefa CRUD descricao, no dia 30/11/2021, ás 9:41, 1:17:39, Pagamento total: R$ 11.65 
+Tempo empenhado fazendo a tarefa Descricao Detalhes, no dia 2/12/2021, ás 21:00, 0:47:39, Pagamento total: R$ 7.15 
+Tempo empenhado fazendo a tarefa Dropdown, no dia 2/12/2021, ás 21:47, 0:45:58, Pagamento total: R$ 6.9 
+Tempo empenhado fazendo a tarefa listagem de pontos, no dia 8/12/2021, ás 21:44, 1:09:24, Pagamento total: R$ 10.41 
+Tempo empenhado fazendo a tarefa ajustes, no dia 20/12/2021, ás 21:01, 1:23:52, Pagamento total: R$ 12.58 
+Tempo empenhado fazendo a tarefa campos extras pontos, no dia 21/12/2021, ás 18:19, 0:23:41, Pagamento total: R$ 3.55 
+Tempo empenhado fazendo a tarefa deletar ponto, no dia 21/12/2021, ás 18:43, 0:29:33, Pagamento total: R$ 4.43 
+Tempo empenhado fazendo a tarefa ajustes, no dia 28/12/2021, ás 13:09, 0:21:29, Pagamento total: R$ 3.22 
+Tempo empenhado fazendo a tarefa Colocar os outros campos do ponto, no dia 27/1/2022, ás 20:29, 1:47:28, Pagamento total: R$ 16.12 
+Tempo empenhado fazendo a tarefa colocar o radio no ajax, no dia 1/2/2022, ás 19:55, 0:42:45, Pagamento total: R$ 6.41 
+Tempo empenhado fazendo a tarefa ajustes gerais, no dia 1/2/2022, ás 21:40, 0:27:51, Pagamento total: R$ 4.18 
+Tempo empenhado fazendo a tarefa mascaras, no dia 1/2/2022, ás 22:08, 0:28:23, Pagamento total: R$ 4.26 
+Tempo empenhado fazendo a tarefa colocar mascaras, no dia 2/2/2022, ás 22:09, 1:06:37, Pagamento total: R$ 9.99 
+Tempo empenhado fazendo a tarefa Ajustar mascara das coordenadas, no dia 3/2/2022, ás 21:26, 1:13:31, Pagamento total: R$ 11.03 

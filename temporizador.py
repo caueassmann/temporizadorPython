@@ -2,8 +2,13 @@ from datetime import datetime, timedelta, date
 from sys import stdout, stdin
 from time import sleep
 from NonBlockingConsole import NonBlockingConsole
+from Jsonclass import JsonClass
 
+ARQUIVOJSON = 'logs.json'
 PAGAMENTOHORA = 9
+
+jman = JsonClass()
+arquivo = jman.lerJson("logs.json")
 tarefa = input("Qual a tarefa que irá desempenhar? ")	
 data = datetime.now()
 data_text = '{}/{}/{}'.format(data.day, data.month,data.year)
@@ -21,10 +26,16 @@ with NonBlockingConsole() as nbc:
 		tempo = tempo + timedelta(seconds=1)
 		sleep(1)
 		
-		
 	minutos = (tempo.total_seconds())/60
 	pagamento = round((PAGAMENTOHORA/60)*minutos,2)
-	string = "Tempo empenhado fazendo a tarefa {}, no dia {}, ás {}: {}. Pagamento total: R$ {} \n".format(tarefa, data_text, hora_text, tempo,pagamento)
-	arquivo= open("logs.txt","a")
-	arquivo.write(string)
-	arquivo.close()
+	
+	dataJson = {
+	"Tarefa" : f"{tarefa}",
+	"dia" : f"{data_text}",
+	"hora" : f"{hora_text}",
+	"tempo" : f"{minutos}",
+	"pagamento" : f"{pagamento}"
+	}
+
+	arquivo.append(dataJson)
+	jman.gravarJson(ARQUIVOJSON,arquivo)

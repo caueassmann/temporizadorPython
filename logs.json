@@ -1,0 +1,387 @@
+[
+       {
+              "Tarefa": "validar login",
+              "dia": "7/6/2021",
+              "hora": "19:48",
+              "tempo": "2:06:04",
+              "pagamento": "11.09 "
+       },
+       {
+              "Tarefa": "login validacao",
+              "dia": "8/6/2021",
+              "hora": "18:50",
+              "tempo": "2:25:02",
+              "pagamento": "2.2 "
+       },
+       {
+              "Tarefa": " Classe Admin + ajax admin",
+              "dia": "   9/6/2021",
+              "hora": "   15:59",
+              "tempo": " 1:01:05",
+              "pagamento": "  5.38 "
+       },
+       {
+              "Tarefa": " topo parte 2",
+              "dia": "   16/6/2021",
+              "hora": "   17:40",
+              "tempo": " 0:19:08",
+              "pagamento": "  1.68 "
+       },
+       {
+              "Tarefa": " lista de imagens",
+              "dia": "   16/6/2021",
+              "hora": "   18:00",
+              "tempo": " 0:49:57",
+              "pagamento": "  4.4 "
+       },
+       {
+              "Tarefa": " lista de imagens",
+              "dia": "   16/6/2021",
+              "hora": "   21:32",
+              "tempo": " 0:32:26",
+              "pagamento": "  2.85 "
+       },
+       {
+              "Tarefa": " lista de imagens",
+              "dia": "   17/6/2021",
+              "hora": "   22:14",
+              "tempo": " 0:55:48",
+              "pagamento": "  4.91 "
+       },
+       {
+              "Tarefa": " classe imagem",
+              "dia": "   21/6/2021",
+              "hora": "   15:59",
+              "tempo": " 0:40:25",
+              "pagamento": "  3.56 "
+       },
+       {
+              "Tarefa": " js de imagem",
+              "dia": "   21/6/2021",
+              "hora": "   17:00",
+              "tempo": " 0:21:27",
+              "pagamento": "  1.89 "
+       },
+       {
+              "Tarefa": " classe Imagem parte 2",
+              "dia": "   21/6/2021",
+              "hora": "   17:49",
+              "tempo": " 0:29:47",
+              "pagamento": "  2.62 "
+       },
+       {
+              "Tarefa": " parte 2 editar imagem",
+              "dia": "   23/6/2021",
+              "hora": "   16:8",
+              "tempo": " 2:04:56",
+              "pagamento": "  10.99 "
+       },
+       {
+              "Tarefa": " ajax parte 2 modal",
+              "dia": "   29/6/2021",
+              "hora": "   13:47",
+              "tempo": " 0:46:30",
+              "pagamento": "  4.09 "
+       },
+       {
+              "Tarefa": " read imagens",
+              "dia": "   29/6/2021",
+              "hora": "   14:33",
+              "tempo": " 0:27:23",
+              "pagamento": "  2.41 "
+       },
+       {
+              "Tarefa": " Edit imagens",
+              "dia": "   30/6/2021",
+              "hora": "   15:35",
+              "tempo": " 1:51:50",
+              "pagamento": "  9.84 "
+       },
+       {
+              "Tarefa": " editar imagem",
+              "dia": "   13/7/2021",
+              "hora": "   14:16",
+              "tempo": " 0:44:00",
+              "pagamento": "  3.87 "
+       },
+       {
+              "Tarefa": " deletar imagem",
+              "dia": "   13/7/2021",
+              "hora": "   18:14",
+              "tempo": " 0:45:27",
+              "pagamento": "  4.0 "
+       },
+       {
+              "Tarefa": " colocar icones de editar e excluir",
+              "dia": "   14/7/2021",
+              "hora": "   16:12",
+              "tempo": " 0:24:51",
+              "pagamento": "  2.19 "
+       },
+       {
+              "Tarefa": " deletar imagem",
+              "dia": "   14/7/2021",
+              "hora": "   17:20",
+              "tempo": " 0:44:44",
+              "pagamento": "  3.94 "
+       },
+       {
+              "Tarefa": " Fazer o FormData",
+              "dia": "   20/7/2021",
+              "hora": "   15:56",
+              "tempo": " 1:23:11",
+              "pagamento": "  7.32 "
+       },
+       {
+              "Tarefa": " exibir Img",
+              "dia": "   21/7/2021",
+              "hora": "   15:25",
+              "tempo": " 1:28:56",
+              "pagamento": "  7.83 "
+       },
+       {
+              "Tarefa": " ver videos do sistema",
+              "dia": "   18/8/2021",
+              "hora": "   9:20",
+              "tempo": " 0:17:02",
+              "pagamento": "  1.5 "
+       },
+       {
+              "Tarefa": " cadastrar alunos",
+              "dia": "   18/8/2021",
+              "hora": "   9:42",
+              "tempo": " 0:46:47",
+              "pagamento": "  4.12 "
+       },
+       {
+              "Tarefa": " site do ballet",
+              "dia": "   18/8/2021",
+              "hora": "   10:29",
+              "tempo": " 0:18:57",
+              "pagamento": "  1.67 "
+       },
+       {
+              "Tarefa": " continuar a fazer o site",
+              "dia": "   18/8/2021",
+              "hora": "   10:50",
+              "tempo": " 0:27:12",
+              "pagamento": "  4.08 "
+       },
+       {
+              "Tarefa": " cadastrar alunos",
+              "dia": "   24/8/2021",
+              "hora": "   19:22",
+              "tempo": " 1:40:45",
+              "pagamento": "  15.11 "
+       },
+       {
+              "Tarefa": " cadadstrar alunos",
+              "dia": "   25/8/2021",
+              "hora": "   9:15",
+              "tempo": " 2:26:46",
+              "pagamento": "  22.02 "
+       },
+       {
+              "Tarefa": " site do ballet",
+              "dia": "   26/8/2021",
+              "hora": "   9:21",
+              "tempo": " 2:00:25",
+              "pagamento": "  18.06 "
+       },
+       {
+              "Tarefa": " fazer o site",
+              "dia": "   26/8/2021",
+              "hora": "   22:06",
+              "tempo": " 1:22:41",
+              "pagamento": "  12.4 "
+       },
+       {
+              "Tarefa": " botao fechar",
+              "dia": "   8/11/2021",
+              "hora": "   8:59",
+              "tempo": " 2:25:43",
+              "pagamento": "  21.86 "
+       },
+       {
+              "Tarefa": " ajax de pesquisa",
+              "dia": "   9/11/2021",
+              "hora": "   10:08",
+              "tempo": " 0:00:54",
+              "pagamento": "  0.14 "
+       },
+       {
+              "Tarefa": " corrigir esquema de login",
+              "dia": "   9/11/2021",
+              "hora": "   10:53",
+              "tempo": " 0:17:38",
+              "pagamento": "  2.65 "
+       },
+       {
+              "Tarefa": " Paginacao lista",
+              "dia": "   9/11/2021",
+              "hora": "   11:11",
+              "tempo": " 0:27:59",
+              "pagamento": "  4.2 "
+       },
+       {
+              "Tarefa": " paginacao parte 1",
+              "dia": "   10/11/2021",
+              "hora": "   11:35",
+              "tempo": " 0:52:33",
+              "pagamento": "  7.88 "
+       },
+       {
+              "Tarefa": " paginacao parte 2",
+              "dia": "   10/11/2021",
+              "hora": "   21:34",
+              "tempo": " 0:50:25",
+              "pagamento": "  7.56 "
+       },
+       {
+              "Tarefa": " CRUD Descricao",
+              "dia": "   23/11/2021",
+              "hora": "   21:41",
+              "tempo": " 1:47:03",
+              "pagamento": "  16.06 "
+       },
+       {
+              "Tarefa": " CRUD descricao",
+              "dia": "   25/11/2021",
+              "hora": "   20:45",
+              "tempo": " 0:46:27",
+              "pagamento": "  6.97 "
+       },
+       {
+              "Tarefa": " Corrigir paginacao listagem",
+              "dia": "   25/11/2021",
+              "hora": "   21:32",
+              "tempo": " 0:09:16",
+              "pagamento": "  1.39 "
+       },
+       {
+              "Tarefa": " CRUD descricao",
+              "dia": "   25/11/2021",
+              "hora": "   21:50",
+              "tempo": " 0:28:57",
+              "pagamento": "  4.34 "
+       },
+       {
+              "Tarefa": " Excluir",
+              "dia": "   25/11/2021",
+              "hora": "   22:19",
+              "tempo": " 0:11:14",
+              "pagamento": "  1.68 "
+       },
+       {
+              "Tarefa": " Excluir",
+              "dia": "   25/11/2021",
+              "hora": "   22:34",
+              "tempo": " 0:03:41",
+              "pagamento": "  0.55 "
+       },
+       {
+              "Tarefa": " CRUD descricao",
+              "dia": "   30/11/2021",
+              "hora": "   9:41",
+              "tempo": " 1:17:39",
+              "pagamento": "  11.65 "
+       },
+       {
+              "Tarefa": " Descricao Detalhes",
+              "dia": "   2/12/2021",
+              "hora": "   21:00",
+              "tempo": " 0:47:39",
+              "pagamento": "  7.15 "
+       },
+       {
+              "Tarefa": " Dropdown",
+              "dia": "   2/12/2021",
+              "hora": "   21:47",
+              "tempo": " 0:45:58",
+              "pagamento": "  6.9 "
+       },
+       {
+              "Tarefa": " listagem de pontos",
+              "dia": "   8/12/2021",
+              "hora": "   21:44",
+              "tempo": " 1:09:24",
+              "pagamento": "  10.41 "
+       },
+       {
+              "Tarefa": " ajustes",
+              "dia": "   20/12/2021",
+              "hora": "   21:01",
+              "tempo": " 1:23:52",
+              "pagamento": "  12.58 "
+       },
+       {
+              "Tarefa": " campos extras pontos",
+              "dia": "   21/12/2021",
+              "hora": "   18:19",
+              "tempo": " 0:23:41",
+              "pagamento": "  3.55 "
+       },
+       {
+              "Tarefa": " deletar ponto",
+              "dia": "   21/12/2021",
+              "hora": "   18:43",
+              "tempo": " 0:29:33",
+              "pagamento": "  4.43 "
+       },
+       {
+              "Tarefa": " ajustes",
+              "dia": "   28/12/2021",
+              "hora": "   13:09",
+              "tempo": " 0:21:29",
+              "pagamento": "  3.22 "
+       },
+       {
+              "Tarefa": " Colocar os outros campos do ponto",
+              "dia": "   27/1/2022",
+              "hora": "   20:29",
+              "tempo": " 1:47:28",
+              "pagamento": "  16.12 "
+       },
+       {
+              "Tarefa": " colocar o radio no ajax",
+              "dia": "   1/2/2022",
+              "hora": "   19:55",
+              "tempo": " 0:42:45",
+              "pagamento": "  6.41 "
+       },
+       {
+              "Tarefa": " ajustes gerais",
+              "dia": "   1/2/2022",
+              "hora": "   21:40",
+              "tempo": " 0:27:51",
+              "pagamento": "  4.18 "
+       },
+       {
+              "Tarefa": " mascaras",
+              "dia": "   1/2/2022",
+              "hora": "   22:08",
+              "tempo": " 0:28:23",
+              "pagamento": "  4.26 "
+       },
+       {
+              "Tarefa": " colocar mascaras",
+              "dia": "   2/2/2022",
+              "hora": "   22:09",
+              "tempo": " 1:06:37",
+              "pagamento": "  9.99 "
+       },
+       {
+              "Tarefa": " Ajustar mascara das coordenadas",
+              "dia": "   3/2/2022",
+              "hora": "   21:26",
+              "tempo": " 1:13:31",
+              "pagamento": "  11.03 "
+       },
+       {
+              "Tarefa": "Teste",
+              "dia": "16/2/2022",
+              "hora": "20:47",
+              "tempo": "0.05",
+              "pagamento": "0.01"
+       }
+]
